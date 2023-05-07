@@ -1,4 +1,4 @@
-# Protium-Finance-Assignment
+# Protium Finance Assignment
 
 Assignement for internship at Protium Finance :
 
